@@ -124,7 +124,7 @@ p {
   }
 
   .container {
-    width: 95%;
+    width: 70%;
     flex-direction: column;
     margin: 10rem auto 3rem;
   }
