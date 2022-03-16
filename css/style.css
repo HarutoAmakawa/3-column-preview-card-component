@@ -118,7 +118,7 @@ p {
   color: var(--very-dark-cyan);
 }
 /* for mobile */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   body {
     max-width: 100%;
   }
